@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 4040,
+        "username": "root",
+        "password": "testdb",
+        "table": "Bot"
+    }
+}
